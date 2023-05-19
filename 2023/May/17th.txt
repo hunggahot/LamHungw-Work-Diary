@@ -1,0 +1,2 @@
+- Tiếp tục tìm hiểu sâu về MySQL, làm các bài tập có sẵn.
+- Báo cáo về tiến độ tự học và đưa ra hướng đi ngắn hạn về sau.

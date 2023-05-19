@@ -1,0 +1,2 @@
+- Được giao toàn bộ tài liệu về tất cả kiến thức từ cơ bản đến chuyên sâu bao gồm: MySQL, Java Core, Frontend Basic, Advanced Java, ReactJS, Interview.
+- Bắt đầu ôn tập và tìm hiểu sâu về MySQL và thiết kế Diagrams.

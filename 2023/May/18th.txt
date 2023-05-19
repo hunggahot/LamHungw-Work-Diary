@@ -1,0 +1,7 @@
+- Tìm hiểu về Git bao gồm:
+    + Ôn lại các command về Git.
+    + Tìm hiểu chuyên sâu về Branch.
+    + Bổ sung kiến thức mới về Gitflow Workflow và áp dụng kiến thức về Branch để thực hành.
+- Được phổ biến về cách áp dụng Git vào làm việc với các doanh nghiệp.
+- Trao đổi lẫn nhau về kiến thức Git với các học viên khác.
+- Báo cáo và demo về quá trình làm việc và tự học về Git.
