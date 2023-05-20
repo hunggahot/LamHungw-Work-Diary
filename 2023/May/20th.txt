@@ -1,0 +1,2 @@
+- Ngày cuối báo cáo Git và trao đổi kiến thức về công cụ Jira.
+- Học về mô hình Algile/Scrum và áp dụng vào công cụ Jira.

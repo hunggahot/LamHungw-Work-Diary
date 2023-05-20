@@ -1,3 +1,3 @@
 - Tiếp tục báo cáo về Git.
-- Xem lại kiến thức về Jira
+- Xem lại kiến thức về Jira.
 - Thực hành và áp dụng vào Project cá nhân mà đang xây dựng.
