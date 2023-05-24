@@ -1,0 +1,2 @@
+- Tiếp tục báo cáo về tiến độ Jira & giao bài tập thực tế.
+- Điền thông tin vào phiếu đánh giá nhận xét đẩy lấy mộc thực tập.
