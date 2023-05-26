@@ -1,0 +1,2 @@
+- Ôn lại MySQL.
+- Chuẩn bị kiến thức về MySQL để báo cáo trong tuần sau.
