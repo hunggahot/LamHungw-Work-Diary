@@ -1,0 +1,1 @@
+- Báo cáo những thứ còn lại của Jira, Demo project áp dụng Agile/Scrum vào trong công cụ phần mềm Jira.
