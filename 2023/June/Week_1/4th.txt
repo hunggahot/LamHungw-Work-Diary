@@ -1,0 +1,24 @@
+- Viết báo cáo thực tập tốt nghiệp.
+- Viết báo cáo SQL.
+- Tổng hợp lại tuần làm việc vừa rồi:
+    Ngày 29/05/2023: Tìm hiểu, ôn lại các kiến thức về MySQL
+        Primary Key, Foreign Key, Check, Default, Null, Not Null, Auto Increment, Injection.
+        Select, In, Between, Aliases, Aggregate Function, Join, Union, Group by, Having, Exist, Any, All, Case, Format.
+        Insert, Update, Delete, Lock, Call, Explain Plan.
+        Create, Alter, Drop, Rename, Truncate, Comment, With.
+        Begin, Commit, Rollback, Savepoint, Transaction, Index.
+        View, Store Procedure, Cursor, Function, Trigger.
+    Ngày 30/05/2023: Tham gia buổi hội thảo về MySQL và Java:
+        Giới thiệu bản thân và định hướng tương lai.
+        Trao đổi kinh nghiệm về phỏng vấn nghề nghiệp.
+        Ôn lại các kiến thức cơ bản để nắm vững khi phỏng vấn.
+        Cẩm nang về sự khác nhau giữa các môi trường làm việc của các doanh nghiệp.
+    Ngày 31/05/2023:
+        Sử dụng phần mềm MySQL Workbench để thiết kế cơ sở dữ liệu.
+        Ôn lại về cách thiết kế các Diagram.
+    Ngày 02/06/2023: Tham quan công ty doanh nghiệp OneUniverse
+        Được giới thiệu sơ lược về công ty.
+        Giới thiệu về nhân sự và tổng quan công việc về ngành Game.
+        Dẫn tham quan không gian làm việc của công ty.
+        Giao lưu, trao đổi về tính chất công việc cũng như thắc mắc về công nghiệp làm Game.
+        Được biết về quy trình tuyển dụng của công ty doanh nghiệp và hướng dẫn chuẩn bị hành trang kiến thức để được trở thành nhân viên của OneUniverse trong tương lai.
