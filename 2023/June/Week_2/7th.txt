@@ -1,0 +1,2 @@
+- Báo cáo Lesson 1 + 2 MySQL.
+- Tiếp tục làm báo cáo về Lesson 3.
