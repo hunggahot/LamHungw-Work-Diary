@@ -1,0 +1,2 @@
+- Báo cáo về các Lesson cuối.
+- Tiếp tục tự học ReactJS.

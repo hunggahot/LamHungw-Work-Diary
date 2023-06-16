@@ -1,0 +1,2 @@
+- Báo cáo bổ sung về phần MySQL lần cuối cùng.
+- Mentor giao Lesson để tự nghiên cứu và báo cáo vào các tuần sau.
